@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import axios from 'axios';
+// import axios from 'axios';
 
 import CardList from './components/card-list/card-list';
 import SearchBox from './components/search-box/search-box';
