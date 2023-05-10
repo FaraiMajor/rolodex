@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rolodex/static/css/main.4d4024a9.css",
+    "main.js": "/rolodex/static/js/main.2727d98d.js",
+    "static/js/787.50800559.chunk.js": "/rolodex/static/js/787.50800559.chunk.js",
+    "index.html": "/rolodex/index.html",
+    "main.4d4024a9.css.map": "/rolodex/static/css/main.4d4024a9.css.map",
+    "main.2727d98d.js.map": "/rolodex/static/js/main.2727d98d.js.map",
+    "787.50800559.chunk.js.map": "/rolodex/static/js/787.50800559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4024a9.css",
+    "static/js/main.2727d98d.js"
+  ]
+}
