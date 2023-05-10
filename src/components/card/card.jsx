@@ -1,8 +1,10 @@
 import React from "react";
 import './card.css';
 
-const Card = ({ monster }) => {
-    const { id, name, email } = monster;
+const Card = ({ monster: { id, name, email } }) => {
+
+    // destructurring
+    // const { id, name, email } = monster
 
     return (
         <div className='card-container'>
